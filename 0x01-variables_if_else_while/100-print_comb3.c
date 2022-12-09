@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 /**
- *
  * main - prints all possible different combinations of digits
  * Return: 0 (success)
  */
@@ -9,7 +8,7 @@ int main(void)
 {
 	int n, p;
 
-	for (n =48; n <= 56; n++)
+	for (n = 48; n <= 56; n++)
 	{
 		for (p = 49; p <= 57; p++)
 		{
